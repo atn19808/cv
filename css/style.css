@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -802,11 +802,35 @@ body.offcanvas {
     .progress-bar.color-5 span {
       color: #2fa499; }
   .progress-bar.color-6 {
-    background: #4054b2; }
+    background: #fc8003; }
     .progress-bar.color-6:after {
-      background: #4054b2; }
+      background: #fc8003; }
     .progress-bar.color-6 span {
+      color: #fc8003; }
+  .progress-bar.color-7 {
+    background: #cafc03; }
+    .progress-bar.color-7:after {
+      background: #cafc03; }
+    .progress-bar.color-7 span {
+      color: #cafc03; }
+  .progress-bar.color-8 {
+    background: #4054b2; }
+    .progress-bar.color-8:after {
+      background: #4054b2; }
+    .progress-bar.color-8 span {
       color: #4054b2; }
+  .progress-bar.color-9 {
+      background: #03fcd7; }
+      .progress-bar.color-9:after {
+        background: #03fcd7; }
+      .progress-bar.color-9 span {
+        color: #03fcd7; }
+  .progress-bar.color-10 {
+      background: #fc3903; }
+      .progress-bar.color-10:after {
+        background: #fc3903; }
+      .progress-bar.color-10 span {
+        color: #fc3903; }
 
 .colorlib-feature {
   text-align: left;
